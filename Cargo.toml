@@ -1,0 +1,15 @@
+[package]
+name = "fritz"
+version = "0.1.0"
+authors = ["Hendrik Sollich <hendrik@hoodie.de>"]
+
+[dependencies]
+hyper = "*"
+reqwest = "*"
+chrono = "*"
+rust-crypto = "*"
+serde = "*"
+serde_derive = "*"
+serde-xml-rs = "*"
+encode_unicode = "*"
+error-chain = "*"
